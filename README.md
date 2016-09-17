@@ -1,0 +1,2 @@
+# aapraktikum
+Andmeanalüüsi praktikumi kraam
